@@ -1,12 +1,11 @@
 [
       {
-		"name": "Webp Image",
-		"author": "unknown",
-		"url": "https://www.gstatic.com/webp/gallery/4.webp",
-		"thumbnail": "https://www.gstatic.com/webp/gallery/5.webp",
-		"dimensions": "3200x2560",
-		"copyright": "Unknown",
-		"collections": "landscapes"
+		"name": "Line1",
+		"author": "vht",
+		"url": "https://github.com/takada89/Celiawall/blob/main/Wallbase/tiltline_amoled.jpg",
+		"dimensions": "1440 x 3120",
+		"copyright": "Personal use only",
+		"collections": "Minimal,Amoled,"
 	},
       {
 		"name": "ShotA",
