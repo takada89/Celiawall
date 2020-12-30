@@ -3,9 +3,9 @@
 		"name": "Line1",
 		"author": "vht",
 		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/tiltline_amoled.jpg",
-		"dimensions": "1440 x 3120",
-		"copyright": "Personal use only",
-		"collections": "Minimal,Amoled,"
+		"dimensions": "1440x3120",
+		"copyright": "Personal use",
+		"collections": "minimal,amoled,"
 	},
       {
 		"name": "ShotA",
