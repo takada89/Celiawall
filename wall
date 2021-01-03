@@ -1,11 +1,27 @@
 [
       {
-		"name": "Line1",
+		"name": "TineA",
 		"author": "vht",
 		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/tiltline_amoled.jpg",
 		"dimensions": "1440x3120",
 		"copyright": "Personal use",
 		"collections": "minimal,amoled,"
+	},
+	{
+		"name": "TineW",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/tiltline_white.jpg",
+		"dimensions": "1440x3120",
+		"copyright": "Personal use",
+		"collections": "minimal,light,"
+	},
+	{
+		"name": "TineD",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/tiltline_dark.jpg",
+		"dimensions": "1440x3120",
+		"copyright": "Personal use",
+		"collections": "minimal,dark,"
 	},
       {
 		"name": "ShotA",
