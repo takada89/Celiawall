@@ -6,7 +6,7 @@
 		"downloadable": true,
 		"dimensions": "1440x3120",
 		"copyright": "Personal use",
-		"collections": "minimal,amoled,"
+		"collections": "minimal,amoled,rgbl"
 	},
 	{
 		"name": "TineW",
@@ -15,7 +15,7 @@
 		"downloadable": true,
 		"dimensions": "1440x3120",
 		"copyright": "Personal use",
-		"collections": "minimal,light,"
+		"collections": "minimal,light,rgbl"
 	},
 	{
 		"name": "TineD",
@@ -136,15 +136,6 @@
 		"dimensions": "1440x3120",
 		"copyright": "Personal use",
 		"collections": "minimal,dark,"
-	},
-	{
-		"name": "Wallsplash 6",
-		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_f.png",
-		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_f.png",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "featured,people"
 	},
 	{
 		"name": "Wallsplash 7",
