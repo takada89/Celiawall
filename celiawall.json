@@ -340,5 +340,59 @@
 		"dimensions": "1440x3120",
 		"copyright": "Personal use",
 		"collections": "Minimal,Dark,RGBL"
+	},
+	{
+		"name": "LC1",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/LC1.jpg",
+		"downloadable": true,
+		"dimensions": "1440x3120",
+		"copyright": "Personal use",
+		"collections": "Vectorize"
+	},
+		{
+		"name": "MinityD",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/mincity_dark.jpg",
+		"downloadable": true,
+		"dimensions": "1440x3120",
+		"copyright": "Personal use",
+		"collections": "Minimal,Dark,RGBL"
+	},
+	{
+		"name": "MinityW",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/mincity_light.jpg",
+		"downloadable": true,
+		"dimensions": "1440x3120",
+		"copyright": "Personal use",
+		"collections": "Minimal,Light,RGBL"
+	},
+		{
+		"name": "MinityA",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/mincity_amoled.jpg",
+		"downloadable": true,
+		"dimensions": "1440x3120",
+		"copyright": "Personal use",
+		"collections": "Minimal,Amoled,RGBL"
+	},
+		{
+		"name": "MinarkW",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/minlandmark_light.jpg",
+		"downloadable": true,
+		"dimensions": "1440x3120",
+		"copyright": "Personal use",
+		"collections": "Minimal,Light,RGBL"
+	},
+			{
+		"name": "MinarkD",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/minlandmark_dark.jpg",
+		"downloadable": true,
+		"dimensions": "1440x3120",
+		"copyright": "Personal use",
+		"collections": "Minimal,Dark,RGBL"
 	}
 ]
