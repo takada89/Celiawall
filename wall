@@ -6,7 +6,7 @@
 		"downloadable": true,
 		"dimensions": "1440x3120",
 		"copyright": "Personal use",
-		"collections": "minimal,amoled,rgbl"
+		"collections": "minimal,amoled"
 	},
 	{
 		"name": "TineW",
@@ -15,7 +15,7 @@
 		"downloadable": true,
 		"dimensions": "1440x3120",
 		"copyright": "Personal use",
-		"collections": "minimal,light,rgbl"
+		"collections": "minimal,light"
 	},
 	{
 		"name": "TineD",
