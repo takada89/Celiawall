@@ -21,121 +21,136 @@
 		"name": "TineD",
 		"author": "vht",
 		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/tiltline_dark.jpg",
+		"downloadable": true,
 		"dimensions": "1440x3120",
 		"copyright": "Personal use",
-		"collections": "minimal,dark,"
+		"collections": "Minimal,Dark,RGBL"
 	},
 	{
 		"name": "TwineA",
 		"author": "vht",
 		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/tiltwave_amoled.jpg",
+		"downloadable": true,
 		"dimensions": "1440x3120",
 		"copyright": "Personal use",
-		"collections": "minimal,amoled,"
+		"collections": "Minimal,Amoled,RGBL"
 	},	
 	{
 		"name": "TwineD",
 		"author": "vht",
 		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/tiltwave_dark.jpg",
+		"downloadable": true,
 		"dimensions": "1440x3120",
 		"copyright": "Personal use",
-		"collections": "minimal,dark,"
+		"collections": "Minimal,Dark,RGBL"
 	},
 	{
 		"name": "TwineW",
 		"author": "vht",
 		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/tiltwave_white.jpg",
+		"downloadable": true,
 		"dimensions": "1440x3120",
 		"copyright": "Personal use",
-		"collections": "minimal,light,"
+		"collections": "Minimal,Light,RGBL"
 	},
 	{
 		"name": "TwineW",
 		"author": "vht",
 		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/tiltwave_white.jpg",
+		"downloadable": true,
 		"dimensions": "1440x3120",
 		"copyright": "Personal use",
-		"collections": "minimal,light,"
+		"collections": "Minimal,Light,RGBL"
 	},
 	{
 		"name": "CorineW",
 		"author": "vht",
 		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/cornerline_light.jpg",
+		"downloadable": true,
 		"dimensions": "1440x3120",
 		"copyright": "Personal use",
-		"collections": "minimal,light,"
+		"collections": "Minimal,Light,RGBL"
 	},
 	{
 		"name": "CorineD",
 		"author": "vht",
 		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/cornerline_dark.jpg",
+		"downloadable": true,
 		"dimensions": "1440x3120",
 		"copyright": "Personal use",
-		"collections": "minimal,dark,"
+		"collections": "Minimal,Dark,RGBL"
 	},
 	{
 		"name": "CorineA",
 		"author": "vht",
 		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/cornerline_amoled.jpg",
+		"downloadable": true,
 		"dimensions": "1440x3120",
 		"copyright": "Personal use",
-		"collections": "minimal,amoled,"
+		"collections": "Minimal,Amoled,RGBL"
 	},
 	{
 		"name": "CorineW",
 		"author": "vht",
 		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/cornerline_light.jpg",
+		"downloadable": true,
 		"dimensions": "1440x3120",
 		"copyright": "Personal use",
-		"collections": "minimal,light,"
+		"collections": "Minimal,Light,RGBL"
 	},
 	{
 		"name": "CrosineW",
 		"author": "vht",
 		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/crossline_white.jpg",
+		"downloadable": true,
 		"dimensions": "1440x3120",
 		"copyright": "Personal use",
-		"collections": "minimal,light,"
+		"collections": "Minimal,Light,RGBL"
 	},
 	{
 		"name": "CrosineA",
 		"author": "vht",
 		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/crossline_amoled.jpg",
+		"downloadable": true,
 		"dimensions": "1440x3120",
 		"copyright": "Personal use",
-		"collections": "minimal,amoled,"
+		"collections": "Minimal,Amoled,RGBL"
 	},
 	{
 		"name": "CrosineD",
 		"author": "vht",
 		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/crossline_dark.jpg",
+		"downloadable": true,
 		"dimensions": "1440x3120",
 		"copyright": "Personal use",
-		"collections": "minimal,dark,"
+		"collections": "Minimal,Dark,RGBL"
 	},
 	{
 		"name": "CrosineA_v2",
 		"author": "vht",
 		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/crosslinev2_amoled.jpg",
+		"downloadable": true,
 		"dimensions": "1440x3120",
 		"copyright": "Personal use",
-		"collections": "minimal,amoled,"
+		"collections": "Minimal,Amoled,RGBL"
 	},
 	{
 		"name": "CrosineD_v2",
 		"author": "vht",
 		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/crosslinev2_dark.jpg",
+		"downloadable": true,
 		"dimensions": "1440x3120",
 		"copyright": "Personal use",
-		"collections": "minimal,dark,"
+		"collections": "Minimal,Dark,RGBL"
 	},
 	{
 		"name": "CrosineW_v2",
 		"author": "vht",
 		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/crossline_white.jpg",
+		"downloadable": true,
 		"dimensions": "1440x3120",
 		"copyright": "Personal use",
-		"collections": "minimal,dark,"
+		"collections": "Minimal,Dark,RGBL"
 	},
 	{
 		"name": "Wallsplash 7",
