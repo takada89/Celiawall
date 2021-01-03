@@ -1,164 +1,43 @@
 [
-	{
-		"name": "TineA",
-		"author": "vht",
-		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/tiltline_amoled.jpg",
-		"downloadable": true,
-		"dimensions": "1440x3120",
-		"copyright": "Personal use",
-		"collections": "Minimal,Amoled,RGBL"
+      {
+		"name": "Webp Image",
+		"author": "unknown",
+		"url": "https://www.gstatic.com/webp/gallery/4.webp",
+		"thumbnail": "https://www.gstatic.com/webp/gallery/5.webp",
+		"dimensions": "3200x2560",
+		"copyright": "Unknown",
+		"collections": "landscapes"
+	},
+      {
+		"name": "ShotA",
+		"author": "Someone",
+		"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg",
+		"collections": "featured,landscapes,people"
 	},
 	{
-		"name": "TineW",
-		"author": "vht",
-		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/tiltline_white.jpg",
-		"downloadable": true,
-		"dimensions": "1440x3120",
-		"copyright": "Personal use",
-		"collections": "Minimal,Light,RGBL"
+		"name": "ShotB",
+		"author": "Someone",
+		"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
+		"dimensions": "3200x2560",
+		"collections": "people,city",
+		"downloadable": false
 	},
 	{
-		"name": "TineD",
-		"author": "vht",
-		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/tiltline_dark.jpg",
-		"downloadable": true,
-		"dimensions": "1440x3120",
-		"copyright": "Personal use",
-		"collections": "Minimal,Dark,RGBL"
+		"author": "Someone",
+		"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallc.jpg",
+		"name": "ShotC",
+		"dimensions": "1280x720",
+		"copyright": "Credits to its creator",
+		"collections": "landscapes,city"
 	},
 	{
-		"name": "TwineA",
-		"author": "vht",
-		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/tiltwave_amoled.jpg",
-		"downloadable": true,
-		"dimensions": "1440x3120",
-		"copyright": "Personal use",
-		"collections": "Minimal,Amoled,RGBL"
-	},	
-	{
-		"name": "TwineD",
-		"author": "vht",
-		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/tiltwave_dark.jpg",
-		"downloadable": true,
-		"dimensions": "1440x3120",
-		"copyright": "Personal use",
-		"collections": "Minimal,Dark,RGBL"
-	},
-	{
-		"name": "TwineW",
-		"author": "vht",
-		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/tiltwave_white.jpg",
-		"downloadable": true,
-		"dimensions": "1440x3120",
-		"copyright": "Personal use",
-		"collections": "Minimal,Light,RGBL"
-	},
-	{
-		"name": "TwineW",
-		"author": "vht",
-		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/tiltwave_white.jpg",
-		"downloadable": true,
-		"dimensions": "1440x3120",
-		"copyright": "Personal use",
-		"collections": "Minimal,Light,RGBL"
-	},
-	{
-		"name": "CorineW",
-		"author": "vht",
-		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/cornerline_light.jpg",
-		"downloadable": true,
-		"dimensions": "1440x3120",
-		"copyright": "Personal use",
-		"collections": "Minimal,Light,RGBL"
-	},
-	{
-		"name": "CorineD",
-		"author": "vht",
-		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/cornerline_dark.jpg",
-		"downloadable": true,
-		"dimensions": "1440x3120",
-		"copyright": "Personal use",
-		"collections": "Minimal,Dark,RGBL"
-	},
-	{
-		"name": "CorineA",
-		"author": "vht",
-		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/cornerline_amoled.jpg",
-		"downloadable": true,
-		"dimensions": "1440x3120",
-		"copyright": "Personal use",
-		"collections": "Minimal,Amoled,RGBL"
-	},
-	{
-		"name": "CorineW",
-		"author": "vht",
-		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/cornerline_light.jpg",
-		"downloadable": true,
-		"dimensions": "1440x3120",
-		"copyright": "Personal use",
-		"collections": "Minimal,Light,RGBL"
-	},
-	{
-		"name": "CrosineW",
-		"author": "vht",
-		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/crossline_white.jpg",
-		"downloadable": true,
-		"dimensions": "1440x3120",
-		"copyright": "Personal use",
-		"collections": "Minimal,Light,RGBL"
-	},
-	{
-		"name": "CrosineA",
-		"author": "vht",
-		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/crossline_amoled.jpg",
-		"downloadable": true,
-		"dimensions": "1440x3120",
-		"copyright": "Personal use",
-		"collections": "Minimal,Amoled,RGBL"
-	},
-	{
-		"name": "CrosineD",
-		"author": "vht",
-		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/crossline_dark.jpg",
-		"downloadable": true,
-		"dimensions": "1440x3120",
-		"copyright": "Personal use",
-		"collections": "Minimal,Dark,RGBL"
-	},
-	{
-		"name": "CrosineA_v2",
-		"author": "vht",
-		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/crosslinev2_amoled.jpg",
-		"downloadable": true,
-		"dimensions": "1440x3120",
-		"copyright": "Personal use",
-		"collections": "Minimal,Amoled,RGBL"
-	},
-	{
-		"name": "CrosineD_v2",
-		"author": "vht",
-		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/crosslinev2_dark.jpg",
-		"downloadable": true,
-		"dimensions": "1440x3120",
-		"copyright": "Personal use",
-		"collections": "Minimal,Dark,RGBL"
-	},
-	{
-		"name": "CrosineW_v2",
-		"author": "vht",
-		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/crossline_white.jpg",
-		"downloadable": true,
-		"dimensions": "1440x3120",
-		"copyright": "Personal use",
-		"collections": "Minimal,Dark,RGBL"
-	},
-	{
-		"name": "Minpee",
-		"author": "vht",
-		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/mintree.png",
-		"downloadable": true,
-		"dimensions": "1440x3120",
-		"copyright": "Personal use",
-		"collections": "Minimal,Illustration"
+		"name": "Wallsplash 1",
+		"author": "wallsplash",
+		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png",
+		"dimensions": "3200x2560",
+		"copyright": "Free (do whatever you want)",
+		"collections": "featured,landscapes,people,city",
+		"featured": true
 	}
 [
