@@ -152,4 +152,13 @@
 		"copyright": "Personal use",
 		"collections": "Minimal,Dark,RGBL"
 	},
+		{
+		"name": "Minpee",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/mintree.png",
+		"downloadable": true,
+		"dimensions": "1440x3120",
+		"copyright": "Personal use",
+		"collections": "Minimal,Illustration"
+	},
 ]
