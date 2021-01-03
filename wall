@@ -260,7 +260,7 @@
 		"copyright": "Personal use",
 		"collections": "minimal,dark,rgbl"
 	},
-		{
+	{
 		"name": "ConfetA",
 		"author": "vht",
 		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/confeti_amoled.jpg",
@@ -286,7 +286,7 @@
 		"dimensions": "1440x3120",
 		"copyright": "Personal use",
 		"collections": "minimal,dark,rgbl"
-	}
+	},
 	{
 		"name": "BrallD_v2",
 		"author": "vht",
@@ -295,7 +295,7 @@
 		"dimensions": "1440x3120",
 		"copyright": "Personal use",
 		"collections": "minimal,dark,rgbl"
-	}
+	},
 	{
 		"name": "BrallW_v2",
 		"author": "vht",
@@ -304,7 +304,7 @@
 		"dimensions": "1440x3120",
 		"copyright": "Personal use",
 		"collections": "minimal,light,rgbl"
-	}
+	},
 	{
 		"name": "BrallD_v3",
 		"author": "vht",
@@ -313,7 +313,7 @@
 		"dimensions": "1440x3120",
 		"copyright": "Personal use",
 		"collections": "minimal,dark,rgbl"
-	}
+	},
 	{
 		"name": "BrallW_v2",
 		"author": "vht",
@@ -322,7 +322,7 @@
 		"dimensions": "1440x3120",
 		"copyright": "Personal use",
 		"collections": "minimal,light,rgbl"
-	}
+	},
 	{
 		"name": "BrallW_v3",
 		"author": "vht",
@@ -331,7 +331,7 @@
 		"dimensions": "1440x3120",
 		"copyright": "Personal use",
 		"collections": "minimal,light,rgbl"
-	}
+	},
 	{
 		"name": "BrallD_v3",
 		"author": "vht",
@@ -340,5 +340,5 @@
 		"dimensions": "1440x3120",
 		"copyright": "Personal use",
 		"collections": "minimal,dark,rgbl"
-	}
+	},
 ]
