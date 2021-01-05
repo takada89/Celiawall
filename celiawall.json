@@ -407,7 +407,7 @@
 	{
 		"name": "BrallW_v2",
 		"author": "vht",
-		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/brush1_light.jpg",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/brush1_white.jpg",
 		"downloadable": true,
 		"dimensions": "1440x3120",
 		"copyright": "Personal use",
@@ -425,7 +425,7 @@
 	{
 		"name": "BrallW_v3",
 		"author": "vht",
-		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/brush2_light.jpg",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/brush2_white.jpg",
 		"downloadable": true,
 		"dimensions": "1440x3120",
 		"copyright": "Personal use",
@@ -434,7 +434,7 @@
 	{
 		"name": "BrallW_v4",
 		"author": "vht",
-		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/brush3_light.jpg",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/brush3_white.jpg",
 		"downloadable": true,
 		"dimensions": "1440x3120",
 		"copyright": "Personal use",
@@ -464,7 +464,7 @@
 		"downloadable": true,
 		"dimensions": "1440x3120",
 		"copyright": "Personal use",
-		"collections": "Minimal,Dark,RGBL"
+		"collections": "Minimal,Dark"
 	},
 	{
 		"name": "MinityW",
@@ -473,7 +473,7 @@
 		"downloadable": true,
 		"dimensions": "1440x3120",
 		"copyright": "Personal use",
-		"collections": "Minimal,Light,RGBL"
+		"collections": "Minimal,Light"
 	},
 		{
 		"name": "MinityA",
@@ -482,7 +482,7 @@
 		"downloadable": true,
 		"dimensions": "1440x3120",
 		"copyright": "Personal use",
-		"collections": "Minimal,Amoled,RGBL"
+		"collections": "Minimal,Amoled"
 	},
 		{
 		"name": "MinarkW",
