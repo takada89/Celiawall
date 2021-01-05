@@ -363,7 +363,7 @@
 				{
 		"name": "minanetD",
 		"author": "vht",
-		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/minanet_dark.jpg",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/minanet_dark.png",
 		"downloadable": true,
 		"dimensions": "1440x3120",
 		"copyright": "Personal use",
@@ -372,7 +372,7 @@
 	{
 		"name": "minanetW",
 		"author": "vht",
-		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/minanet_light.jpg",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/minanet_light.png",
 		"downloadable": true,
 		"dimensions": "1440x3120",
 		"copyright": "Personal use",
