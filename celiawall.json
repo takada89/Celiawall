@@ -346,7 +346,6 @@
 		"author": "vht",
 		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/LC1.jpg",
 		"downloadable": true,
-		"dimensions": "1440x3120",
 		"copyright": "Personal use",
 		"collections": "Vectorize"
 	},
@@ -396,9 +395,9 @@
 		"collections": "Minimal,Dark,RGBL"
 	}
 	{
-		"name": "LC1",
+		"name": "LC9",
 		"author": "vht",
-		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/LC1.jpg",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/LC9.jpg",
 		"downloadable": true,
 		"copyright": "Personal use",
 		"collections": "Vectorize"
