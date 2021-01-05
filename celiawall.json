@@ -179,7 +179,7 @@
 		"copyright": "Personal use",
 		"collections": "Minimal,Light,RGBL"
 	},
-		{
+	{
 		"name": "RectaW",
 		"author": "vht",
 		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/rectanglev2_white.jpg",
@@ -188,7 +188,7 @@
 		"copyright": "Personal use",
 		"collections": "Minimal,Light,RGBL"
 	},
-			{
+	{
 		"name": "RectaD",
 		"author": "vht",
 		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/rectanglev2_dark.jpg",
@@ -197,7 +197,7 @@
 		"copyright": "Personal use",
 		"collections": "Minimal,Dark,RGBL"
 	},
-			{
+	{
 		"name": "RectaD",
 		"author": "vht",
 		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/rectanglev2_amoled.jpg",
@@ -206,7 +206,7 @@
 		"copyright": "Personal use",
 		"collections": "Minimal,Amoled,RGBL"
 	},
-			{
+	{
 		"name": "QuircleW",
 		"author": "vht",
 		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/quatercirle_light.jpg",
@@ -242,7 +242,7 @@
 		"copyright": "Personal use",
 		"collections": "Gradient,Dark"
 	},
-		{
+	{
 		"name": "Goave1_yl",
 		"author": "vht",
 		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/ghoave5_yl.jpg",
@@ -251,7 +251,7 @@
 		"copyright": "Personal use",
 		"collections": "Gradient,Dark"
 	},
-		{
+	{
 		"name": "Goave1_r",
 		"author": "vht",
 		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/ghoave5_r.jpg",
@@ -269,7 +269,7 @@
 		"copyright": "Personal use",
 		"collections": "Gradient,Dark"
 	},
-		{
+	{
 		"name": "Goave1_mc",
 		"author": "vht",
 		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/ghoave5_mc.jpg",
@@ -457,7 +457,7 @@
 		"copyright": "Personal use",
 		"collections": "Vectorize"
 	},
-		{
+	{
 		"name": "MinityD",
 		"author": "vht",
 		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/mincity_dark.jpg",
@@ -475,7 +475,7 @@
 		"copyright": "Personal use",
 		"collections": "Minimal,Light"
 	},
-		{
+	{
 		"name": "MinityA",
 		"author": "vht",
 		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/mincity_amoled.jpg",
@@ -484,7 +484,7 @@
 		"copyright": "Personal use",
 		"collections": "Minimal,Amoled"
 	},
-		{
+	{
 		"name": "MinarkW",
 		"author": "vht",
 		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/minlandmark_light.jpg",
@@ -493,7 +493,7 @@
 		"copyright": "Personal use",
 		"collections": "Minimal,Light,RGBL"
 	},
-			{
+	{
 		"name": "MinarkD",
 		"author": "vht",
 		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/minlandmark_dark.jpg",
@@ -510,7 +510,7 @@
 		"copyright": "Personal use",
 		"collections": "Vectorize"
 	},
-		{
+	{
 		"name": "LC2",
 		"author": "vht",
 		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/LC2.jpg",
@@ -518,7 +518,7 @@
 		"copyright": "Personal use",
 		"collections": "Vectorize"
 	},
-		{
+	{
 		"name": "LC3",
 		"author": "vht",
 		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/LC3.jpg",
@@ -526,7 +526,7 @@
 		"copyright": "Personal use",
 		"collections": "Vectorize"
 	},
-		{
+	{
 		"name": "LC4",
 		"author": "vht",
 		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/LC4.jpg",
@@ -534,7 +534,7 @@
 		"copyright": "Personal use",
 		"collections": "Vectorize"
 	},
-		{
+	{
 		"name": "LC5",
 		"author": "vht",
 		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/LC5.jpg",
@@ -542,7 +542,7 @@
 		"copyright": "Personal use",
 		"collections": "Vectorize"
 	},
-		{
+	{
 		"name": "LC7",
 		"author": "vht",
 		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/LC7.jpg",
@@ -550,7 +550,7 @@
 		"copyright": "Personal use",
 		"collections": "Vectorize"
 	},
-		{
+	{
 		"name": "LC8",
 		"author": "vht",
 		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/LC8.jpg",
