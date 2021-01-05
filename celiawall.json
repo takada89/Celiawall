@@ -155,7 +155,7 @@
 	{
 		"name": "TriangleA",
 		"author": "vht",
-		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/triangle_amoled.jpg",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/triangle_amoled2.jpg",
 		"downloadable": true,
 		"dimensions": "1440x3120",
 		"copyright": "Personal use",
@@ -164,7 +164,7 @@
 	{
 		"name": "TriangleD",
 		"author": "vht",
-		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/triangle_dark.jpg",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/triangle_dark2.jpg",
 		"downloadable": true,
 		"dimensions": "1440x3120",
 		"copyright": "Personal use",
@@ -173,11 +173,110 @@
 	{
 		"name": "TriangleW",
 		"author": "vht",
-		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/triangle_light.jpg",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/triangle_light2.jpg",
 		"downloadable": true,
 		"dimensions": "1440x3120",
 		"copyright": "Personal use",
 		"collections": "Minimal,Light,RGBL"
+	},
+		{
+		"name": "RectaW",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/rectanglev2_white.jpg",
+		"downloadable": true,
+		"dimensions": "1440x3120",
+		"copyright": "Personal use",
+		"collections": "Minimal,Light,RGBL"
+	},
+			{
+		"name": "RectaD",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/rectanglev2_dark.jpg",
+		"downloadable": true,
+		"dimensions": "1440x3120",
+		"copyright": "Personal use",
+		"collections": "Minimal,Dark,RGBL"
+	},
+			{
+		"name": "RectaD",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/rectanglev2_amoled.jpg",
+		"downloadable": true,
+		"dimensions": "1440x3120",
+		"copyright": "Personal use",
+		"collections": "Minimal,Amoled,RGBL"
+	},
+			{
+		"name": "QuircleW",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/quatercirle_light.jpg",
+		"downloadable": true,
+		"dimensions": "1440x3120",
+		"copyright": "Personal use",
+		"collections": "Minimal,Light,RGBL"
+	},
+	{
+		"name": "QuircleD",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/quatercirle_dark.jpg",
+		"downloadable": true,
+		"dimensions": "1440x3120",
+		"copyright": "Personal use",
+		"collections": "Minimal,Dark,RGBL"
+	},
+	{
+		"name": "QuircleA",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/quatercirle_amoled.jpg",
+		"downloadable": true,
+		"dimensions": "1440x3120",
+		"copyright": "Personal use",
+		"collections": "Minimal,Amoled,RGBL"
+	},
+	{
+		"name": "Goave1_bl",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/ghoave5_bl.jpg",
+		"downloadable": true,
+		"dimensions": "1440x3120",
+		"copyright": "Personal use",
+		"collections": "Gradient,Dark"
+	},
+		{
+		"name": "Goave1_yl",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/ghoave5_yl.jpg",
+		"downloadable": true,
+		"dimensions": "1440x3120",
+		"copyright": "Personal use",
+		"collections": "Gradient,Dark"
+	},
+		{
+		"name": "Goave1_r",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/ghoave5_r.jpg",
+		"downloadable": true,
+		"dimensions": "1440x3120",
+		"copyright": "Personal use",
+		"collections": "Gradient,Dark"
+	},
+	{
+		"name": "Goave1_gr",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/ghoave5_gr.jpg",
+		"downloadable": true,
+		"dimensions": "1440x3120",
+		"copyright": "Personal use",
+		"collections": "Gradient,Dark"
+	},
+		{
+		"name": "Goave1_mc",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/ghoave5_mc.jpg",
+		"downloadable": true,
+		"dimensions": "1440x3120",
+		"copyright": "Personal use",
+		"collections": "Gradient,Dark"
 	},
 	{
 		"name": "RoareW",
@@ -187,6 +286,15 @@
 		"dimensions": "1440x3120",
 		"copyright": "Personal use",
 		"collections": "Minimal,Light,RGBL"
+	},
+	{
+		"name": "Blur7",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/blu7.jpg",
+		"downloadable": true,
+		"dimensions": "1440x3120",
+		"copyright": "Personal use",
+		"collections": "Gradient,Blur"
 	},
 	{
 		"name": "RoareD",
