@@ -315,7 +315,7 @@
 		"collections": "Minimal,Dark,RGBL"
 	},
 	{
-		"name": "BrallW_v2",
+		"name": "BrallW_v3",
 		"author": "vht",
 		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/brush2_light.jpg",
 		"downloadable": true,
@@ -324,7 +324,7 @@
 		"collections": "Minimal,Light,RGBL"
 	},
 	{
-		"name": "BrallW_v3",
+		"name": "BrallW_v4",
 		"author": "vht",
 		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/brush3_light.jpg",
 		"downloadable": true,
@@ -333,7 +333,7 @@
 		"collections": "Minimal,Light,RGBL"
 	},
 	{
-		"name": "BrallD_v3",
+		"name": "BrallD_v4",
 		"author": "vht",
 		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/brush3_dark.jpg",
 		"downloadable": true,
