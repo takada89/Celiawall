@@ -210,7 +210,7 @@
 		{
 		"name": "QuircleW",
 		"author": "vht",
-		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/quatercirle_light.jpg",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/quartercirle_light.jpg",
 		"downloadable": true,
 		"dimensions": "1440x3120",
 		"copyright": "Personal use",
@@ -219,7 +219,7 @@
 		{
 		"name": "QuircleD",
 		"author": "vht",
-		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/quatercirle_dark.jpg",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/quartercirle_dark.jpg",
 		"downloadable": true,
 		"dimensions": "1440x3120",
 		"copyright": "Personal use",
@@ -228,7 +228,7 @@
 		{
 		"name": "QuircleA",
 		"author": "vht",
-		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/quatercirle_amoled.jpg",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/quartercirle_amoled.jpg",
 		"downloadable": true,
 		"dimensions": "1440x3120",
 		"copyright": "Personal use",
@@ -291,7 +291,7 @@
 		{
 		"name": "Blur7",
 		"author": "vht",
-		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/blu7.jpg",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/blur7.jpg",
 		"downloadable": true,
 		"dimensions": "1440x3120",
 		"copyright": "Personal use",
@@ -361,18 +361,18 @@
 		"collections": "Dark,Abstract"
 		},
 				{
-		"name": "minametD",
+		"name": "minanetD",
 		"author": "vht",
-		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/minamet_dark.jpg",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/minanet_dark.jpg",
 		"downloadable": true,
 		"dimensions": "1440x3120",
 		"copyright": "Personal use",
 		"collections": "Dark,Minimal,Flat"
 		},
 	{
-		"name": "minametW",
+		"name": "minanetW",
 		"author": "vht",
-		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/minamet_light.jpg",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/minanet_light.jpg",
 		"downloadable": true,
 		"dimensions": "1440x3120",
 		"copyright": "Personal use",
