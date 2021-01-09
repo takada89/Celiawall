@@ -1,5 +1,31 @@
 [
-         
+         {
+		"name": "2021A",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/2021(1).png",
+		"downloadable": true,
+		"dimensions": "1440x3120",
+		"copyright": "Personal use",
+		"collections": "Amoled,RGBL,Holiday"
+		},
+	 {
+		"name": "2021W",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/2021(3).png",
+		"downloadable": true,
+		"dimensions": "1440x3120",
+		"copyright": "Personal use",
+		"collections": "Light,RGBL,Holiday"
+		},
+	 {
+		"name": "2021D",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/2021(2).png",
+		"downloadable": true,
+		"dimensions": "1440x3120",
+		"copyright": "Personal use",
+		"collections": "Dark,RGBL,Holiday"
+		},
 		{
 		"name": "TineA",
 		"author": "vht",
