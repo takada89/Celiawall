@@ -1,5 +1,34 @@
 [
-         {
+        {
+		"name": "Dould1",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/Dould1.png",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/Dould1thumb.jpg",
+		"downloadable": true,
+		"dimensions": "1440x3120",
+		"copyright": "Personal use",
+		"collections": "Scenery"
+	},
+	{
+		"name": "Dould2",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/Dould2.png",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/Dould2thumb.jpg",
+		"downloadable": true,
+		"dimensions": "1440x3120",
+		"copyright": "Personal use",
+		"collections": "Scenery"
+	},
+	{
+		"name": "Crould1",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/Crould1.png",
+		"downloadable": true,
+		"dimensions": "1440x3120",
+		"copyright": "Personal use",
+		"collections": "Abstract,Pattern"
+	},
+	{
 		"name": "2021A",
 		"author": "vht",
 		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/2021(1).png",
