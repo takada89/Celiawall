@@ -1,5 +1,25 @@
 [
         {
+		"name": "LC59",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/LC59.png",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/LC59thumb.jpg",
+		"downloadable": true,
+		"dimensions": "2550x1700",
+		"copyright": "Personal use",
+		"collections": "Vectorize"
+	},
+	        {
+		"name": "LC60",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/LC60.png",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/LC60thumb.jpg",
+		"downloadable": true,
+		"dimensions": "2550x1700",
+		"copyright": "Personal use",
+		"collections": "Vectorize"
+	},
+	{
 		"name": "Topevep",
 		"author": "vht",
 		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/topeve_1.jpg",
