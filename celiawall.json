@@ -1,4 +1,34 @@
 [
+         {
+		"name": "Gradur1",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/gradur1.png",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/gradur1thumb.jpg",
+		"downloadable": true,
+		"dimensions": "1440x3120",
+		"copyright": "Personal use",
+		"collections": "Blur,Gradient,Amoled"
+	},
+	         {
+		"name": "Gradur2",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/gradur2.png",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/gradur2thumb.jpg",
+		"downloadable": true,
+		"dimensions": "1440x3120",
+		"copyright": "Personal use",
+		"collections": "Blur,Gradient,Amoled"
+	},
+	         {
+		"name": "Gradur3",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/gradur3.png",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/gradur3thumb.jpg",
+		"downloadable": true,
+		"dimensions": "1440x3120",
+		"copyright": "Personal use",
+		"collections": "Blur,Gradient,Amoled"
+	},
         {
 		"name": "LC59",
 		"author": "vht",
