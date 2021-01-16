@@ -1,5 +1,14 @@
 [
-      
+      	{
+		"name": "Wilaray",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/wilarkay_1.png",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/wilarkay_1thumb.jpg",
+		"downloadable": true,
+		"dimensions": "1440x3120",
+		"copyright": "Personal use",
+		"collections": "Illustration,Minimal"
+	},
 	{
 		"name": "Wilaright",
 		"author": "vht",
