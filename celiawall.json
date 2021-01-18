@@ -1,5 +1,23 @@
 [
       	{
+		"name": "RibbonW",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/ribbon_1white.png",
+		"downloadable": true,
+		"dimensions": "1440x3120",
+		"copyright": "Personal use",
+		"collections": "Light,RGBL"
+	}
+	      	{
+		"name": "RibbonD",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/ribbon_1dark.png",
+		"downloadable": true,
+		"dimensions": "1440x3120",
+		"copyright": "Personal use",
+		"collections": "Dark,RGBL"
+	}
+	{
 		"name": "Wilaray",
 		"author": "vht",
 		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/wilarkay_1.png",
