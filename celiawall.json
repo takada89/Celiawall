@@ -1,5 +1,25 @@
 [
       	{
+		"name": "Redmoond",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/redmoond.png",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/redmoondthumb.jpg",
+		"downloadable": true,
+		"dimensions": "1440x3120",
+		"copyright": "Personal use",
+		"collections": "Illustration,Minimal"
+	},
+	{
+		"name": "Redmoon",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/redmoon.png",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/redmoonthumb.jpg",
+		"downloadable": true,
+		"dimensions": "1440x3120",
+		"copyright": "Personal use",
+		"collections": "Illustration,Minimal"
+	},
+	{
 		"name": "Beay",
 		"author": "vht",
 		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/beay.png",
@@ -579,7 +599,7 @@
 		"downloadable": true,
 		"dimensions": "1440x3120",
 		"copyright": "Personal use",
-		"collections": "Dark,Minimal,Flat"
+		"collections": "Dark,Minimal"
 		},
 	{
 		"name": "minanetW",
@@ -588,7 +608,7 @@
 		"downloadable": true,
 		"dimensions": "1440x3120",
 		"copyright": "Personal use",
-		"collections": "Light,Minimal,Flat"
+		"collections": "Light,Minimal"
 		},
 		{
 		"name": "RoareD",
