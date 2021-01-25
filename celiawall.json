@@ -1,5 +1,32 @@
 [
-      	{
+      	 {
+		"name": "LC32",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/LC32.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/LC32thumb.jpg",
+		"downloadable": true,
+		"copyright": "Personal use",
+		"collections": "Vectorize"
+	},
+	      	 {
+		"name": "LC22",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/LC22.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/LC22thumb.jpg",
+		"downloadable": true,
+		"copyright": "Personal use",
+		"collections": "Vectorize"
+	},
+	 {
+		"name": "LC47",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/LC47.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/LC47thumb.jpg",
+		"downloadable": true,
+		"copyright": "Personal use",
+		"collections": "Vectorize"
+	},
+	{
 		"name": "Redmoond",
 		"author": "vht",
 		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/redmoond.png",
