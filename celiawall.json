@@ -1,12 +1,23 @@
 [
 	{
-		"name": "Mow1",
+		"name": "RangleD",
 		"author": "vht",
-		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/mow1.png",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/roundedrect_dark.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/roundedrect_darkthumb.jpg",
 		"dimensions": "1440x3120",
 		"downloadable": true,
 		"copyright": "Personal use",
-		"collections": "Minimal,Dark,Pattern"
+		"collections": "Dark,RGBL"
+	},
+	{
+		"name": "RangleW",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/roundedrect_light.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/roundedrect_lightthumb.jpg",
+		"dimensions": "1440x3120",
+		"downloadable": true,
+		"copyright": "Personal use",
+		"collections": "Light,RGBL"
 	},
 	{
 		"name": "Mow6",
