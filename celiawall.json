@@ -1,5 +1,32 @@
 [
 	{
+		"name": "LC49",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/LC49.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/LC49thumb.jpg",
+		"downloadable": true,
+		"copyright": "Personal use",
+		"collections": "Vectorize"
+	},
+	{
+		"name": "LC13",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/LC13.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/LC13thumb.jpg",
+		"downloadable": true,
+		"copyright": "Personal use",
+		"collections": "Vectorize"
+	},
+		{
+		"name": "LC14",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/LC14.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/LC14thumb.jpg",
+		"downloadable": true,
+		"copyright": "Personal use",
+		"collections": "Vectorize"
+	},
+	{
 		"name": "RangleD",
 		"author": "vht",
 		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/roundedrect_dark.jpg",
