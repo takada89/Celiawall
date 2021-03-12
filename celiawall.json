@@ -1,5 +1,35 @@
 [
 	{
+		"name": "Moday1",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/moday1.png",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/moday1thumb.png",
+		"dimensions": "1440x3120",
+		"downloadable": true,
+		"copyright": "Personal use",
+		"collections": "Scenery"
+	},
+	{
+		"name": "Moday2",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/moday2.png",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/moday2thumb.png",
+		"dimensions": "1440x3120",
+		"downloadable": true,
+		"copyright": "Personal use",
+		"collections": "Scenery"
+	},
+		{
+		"name": "Moday3",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/moday3.png",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/moday3thumb.png",
+		"dimensions": "1440x3120",
+		"downloadable": true,
+		"copyright": "Personal use",
+		"collections": "Scenery"
+	},
+	{
 		"name": "pilk1",
 		"author": "Vectorized by vht",
 		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/pilk1.png",
