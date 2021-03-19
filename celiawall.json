@@ -1,5 +1,35 @@
 [
 	{
+		"name": "LC34",
+		"author": "Vectorized by vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/LC34.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/LC34thumb.jpg",
+		"dimensions": "1440x3120",
+		"downloadable": true,
+		"copyright": "Personal use",
+		"collections": "Vectorize"
+	},
+	{
+		"name": "LC37",
+		"author": "Vectorized by vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/LC37.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/LC37thumb.jpg",
+		"dimensions": "1440x3120",
+		"downloadable": true,
+		"copyright": "Personal use",
+		"collections": "Vectorize"
+	},
+	{
+		"name": "LC43",
+		"author": "Vectorized by vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/LC43.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/LC43thumb.jpg",
+		"dimensions": "1440x3120",
+		"downloadable": true,
+		"copyright": "Personal use",
+		"collections": "Vectorize"
+	},
+	{
 		"name": "Mtripe_W",
 		"author": "vht",
 		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/modstripe_light.jpg",
