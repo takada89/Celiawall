@@ -1,5 +1,35 @@
 [
 	{
+		"name": "Shaday1",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/shay1.png",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/shay1thumb.jpg",
+		"dimensions": "1440x3120",
+		"downloadable": true,
+		"copyright": "Personal use",
+		"collections": "Scenery"
+	},
+		{
+		"name": "Shaday2",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/shay2.png",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/shay2thumb.jpg",
+		"dimensions": "1440x3120",
+		"downloadable": true,
+		"copyright": "Personal use",
+		"collections": "Scenery"
+	},
+		{
+		"name": "Shaday3",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/shay3.png",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/shay3thumb.jpg",
+		"dimensions": "1440x3120",
+		"downloadable": true,
+		"copyright": "Personal use",
+		"collections": "Scenery"
+	},
+	{
 		"name": "Trity1",
 		"author": "vht",
 		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/trinity1.png",
