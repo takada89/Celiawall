@@ -1,7 +1,61 @@
 [
 	{
+		"name": "Gwirl_D",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/gwirl1.png",
+		"dimensions": "1440x3120",
+		"downloadable": true,
+		"copyright": "Personal use",
+		"collections": "Dark,Minimal,RGBL"
+	},
+	{
+		"name": "Gwirl_W",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/gwirl3.png",
+		"dimensions": "1440x3120",
+		"downloadable": true,
+		"copyright": "Personal use",
+		"collections": "Light,Minimal,RGBL"
+	},
+	{
+		"name": "Gwirl_A",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/gwirl2.png",
+		"dimensions": "1440x3120",
+		"downloadable": true,
+		"copyright": "Personal use",
+		"collections": "Amoled,Minimal,RGBL"
+	},
+	{
+		"name": "Tring_A",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/tring3.png",
+		"dimensions": "1440x3120",
+		"downloadable": true,
+		"copyright": "Personal use",
+		"collections": "Amoled,Minimal,RGBL"
+	},
+	{
+		"name": "Tring_W",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/tring2.png",
+		"dimensions": "1440x3120",
+		"downloadable": true,
+		"copyright": "Personal use",
+		"collections": "Light,Minimal,RGBL"
+	},
+	{
+		"name": "Tring_D",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/tring1.png",
+		"dimensions": "1440x3120",
+		"downloadable": true,
+		"copyright": "Personal use",
+		"collections": "Dark,Minimal,RGBL"
+	},
+	{
 		"name": "Wop1",
-		"author": "Vectorized by vht",
+		"author": "vht",
 		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/wop1.png",
 		"dimensions": "1440x3120",
 		"downloadable": true,
@@ -10,7 +64,7 @@
 	},
 	{
 		"name": "Wop2",
-		"author": "Vectorized by vht",
+		"author": "vht",
 		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/wop2.png",
 		"dimensions": "1440x3120",
 		"downloadable": true,
@@ -19,7 +73,7 @@
 	},
 	{
 		"name": "Wop3",
-		"author": "Vectorized by vht",
+		"author": "vht",
 		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/wop3.png",
 		"dimensions": "1440x3120",
 		"downloadable": true,
@@ -28,7 +82,7 @@
 	},
 	{
 		"name": "Wop4",
-		"author": "Vectorized by vht",
+		"author": "vht",
 		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/wop4.png",
 		"dimensions": "1440x3120",
 		"downloadable": true,
