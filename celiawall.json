@@ -1,5 +1,35 @@
 [
 	{
+		"name": "LC68",
+		"author": "Vectorized by vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/LC68.png",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/LC68thumb.jpg",
+		"dimensions": "1440x3120",
+		"downloadable": true,
+		"copyright": "Personal use",
+		"collections": "Vectorize"
+	},
+	{
+		"name": "LC29",
+		"author": "Vectorized by vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/LC29.ipg",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/LC29thumb.jpg",
+		"dimensions": "1440x3120",
+		"downloadable": true,
+		"copyright": "Personal use",
+		"collections": "Vectorize"
+	},
+	{
+		"name": "LC33",
+		"author": "Vectorized by vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/LC33.ipg",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/LC33thumb.jpg",
+		"dimensions": "1440x3120",
+		"downloadable": true,
+		"copyright": "Personal use",
+		"collections": "Vectorize"
+	},
+	{
 		"name": "Make1",
 		"author": "vht",
 		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/make1.png",
