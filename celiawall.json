@@ -1,5 +1,35 @@
 [
 	{
+		"name": "LC10",
+		"author": "vectorized by vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/LC10.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/LC10thumb.jpg",
+		"dimensions": "1440x3120",
+		"downloadable": true,
+		"copyright": "Personal use",
+		"collections": "Vectorized"
+	},
+	{
+		"name": "LC18",
+		"author": "vectorized by vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/LC18.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/LC18thumb.jpg",
+		"dimensions": "1440x3120",
+		"downloadable": true,
+		"copyright": "Personal use",
+		"collections": "Vectorized"
+	},
+	{
+		"name": "LC26",
+		"author": "vectorized by vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/LC26.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/LC26thumb.jpg",
+		"dimensions": "1440x3120",
+		"downloadable": true,
+		"copyright": "Personal use",
+		"collections": "Vectorized"
+	},
+	{
 		"name": "Garu1",
 		"author": "vht",
 		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/garu1.png",
