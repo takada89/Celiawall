@@ -1,5 +1,55 @@
 [
 	{
+		"name": "Rake1",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/rake1.png",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/rake1thumb.jpg",
+		"dimensions": "1440x3120",
+		"downloadable": true,
+		"copyright": "Personal use",
+		"collections": "Abstract"
+	},
+	{
+		"name": "Rake2",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/rake2.png",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/rake2thumb.jpg",
+		"dimensions": "1440x3120",
+		"downloadable": true,
+		"copyright": "Personal use",
+		"collections": "Abstract"
+	},
+	{
+		"name": "Sua1",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/sua1.png",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/sua1thumb.jpg",
+		"dimensions": "1440x3120",
+		"downloadable": true,
+		"copyright": "Personal use",
+		"collections": "Abstract,RGBL,Dark"
+	},
+	{
+		"name": "Sua3",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/sua3.png",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/sua3thumb.jpg",
+		"dimensions": "1440x3120",
+		"downloadable": true,
+		"copyright": "Personal use",
+		"collections": "Abstract,RGBL,Light"
+	},
+	{
+		"name": "Sua2",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/sua2.png",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/sua2thumb.jpg",
+		"dimensions": "1440x3120",
+		"downloadable": true,
+		"copyright": "Personal use",
+		"collections": "Abstract,Dark"
+	},
+	{
 		"name": "Sako4",
 		"author": "collected by vht",
 		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/sako4.jpg",
