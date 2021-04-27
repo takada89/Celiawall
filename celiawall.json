@@ -1,5 +1,65 @@
 [
 	{
+		"name": "BitaW",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/bita1.png",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/bita1thumb.jpg",
+		"dimensions": "1440x3120",
+		"downloadable": true,
+		"copyright": "Personal use",
+		"collections": "Light,Minimal"
+	},
+	{
+		"name": "BitaA",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/bita2.png",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/bita2thumb.jpg",
+		"dimensions": "1440x3120",
+		"downloadable": true,
+		"copyright": "Personal use",
+		"collections": "Amoled,Minimal"
+	},
+	{
+		"name": "BoruW",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/boru1.png",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/boru1thumb.jpg",
+		"dimensions": "1440x3120",
+		"downloadable": true,
+		"copyright": "Personal use",
+		"collections": "Light,Minimal"
+	},
+	{
+		"name": "BoruA",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/boru2.png",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/boru2thumb.jpg",
+		"dimensions": "1440x3120",
+		"downloadable": true,
+		"copyright": "Personal use",
+		"collections": "Amoled,Minimal"
+	},
+	{
+		"name": "Catu1",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/catu1.png",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/catu1thumb.jpg",
+		"dimensions": "1440x3120",
+		"downloadable": true,
+		"copyright": "Personal use",
+		"collections": "Dark,Scenery"
+	},
+	{
+		"name": "Catu2",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/catu2.png",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/catu2thumb.jpg",
+		"dimensions": "1440x3120",
+		"downloadable": true,
+		"copyright": "Personal use",
+		"collections": "Dark,Scenery"
+	},
+	{
 		"name": "GigiW",
 		"author": "vht",
 		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/graicle_light.jpg",
@@ -7,7 +67,7 @@
 		"dimensions": "1440x3120",
 		"downloadable": true,
 		"copyright": "Personal use",
-		"collections": "Light,RGBL,AMinimal"
+		"collections": "Light,RGBL,Minimal"
 	},
 	{
 		"name": "GigiD",
@@ -17,7 +77,7 @@
 		"dimensions": "1440x3120",
 		"downloadable": true,
 		"copyright": "Personal use",
-		"collections": "Dark,RGBL,AMinimal"
+		"collections": "Dark,RGBL,Minimal"
 	},
 	{
 		"name": "GigiA",
@@ -27,7 +87,7 @@
 		"dimensions": "1440x3120",
 		"downloadable": true,
 		"copyright": "Personal use",
-		"collections": "Amoled,RGBL,AMinimal"
+		"collections": "Amoled,RGBL,Minimal"
 	},
 	{
 		"name": "Rake1",
