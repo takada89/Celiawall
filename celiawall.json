@@ -1,5 +1,32 @@
 [
 	{
+		"name": "LC53",
+		"author": "vectorized by vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/LC53.jpg",
+		"dimensions": "1440x3120",
+		"downloadable": true,
+		"copyright": "Personal use",
+		"collections": "Vectorize"
+	},
+	{
+		"name": "LC55",
+		"author": "vectorized by vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/LC55.jpg",
+		"dimensions": "1440x3120",
+		"downloadable": true,
+		"copyright": "Personal use",
+		"collections": "Vectorize"
+	},
+	{
+		"name": "LC76",
+		"author": "vectorized by vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/LC76.jpg",
+		"dimensions": "1440x3120",
+		"downloadable": true,
+		"copyright": "Personal use",
+		"collections": "Vectorize"
+	},
+	{
 		"name": "Murf1",
 		"author": "vht",
 		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/murf1.png",
