@@ -1,5 +1,85 @@
 [
 	{
+		"name": "Kronikal1",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/kronikal_1.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/kronikal_1thumb.jpg",
+		"dimensions": "1440x3120",
+		"downloadable": true,
+		"copyright": "Personal use",
+		"collections": "Pattern,Lines,Light"
+	},
+	{
+		"name": "Kronikal2",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/kronikal_2.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/kronikal_2thumb.jpg",
+		"dimensions": "1440x3120",
+		"downloadable": true,
+		"copyright": "Personal use",
+		"collections": "Pattern,Lines,Light"
+	},
+	{
+		"name": "Kronikal3",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/kronikal_3.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/kronikal_3thumb.jpg",
+		"dimensions": "1440x3120",
+		"downloadable": true,
+		"copyright": "Personal use",
+		"collections": "Pattern,Lines,Dark"
+	},
+	{
+		"name": "Kronikal4",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/kronikal_4.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/kronikal_4thumb.jpg",
+		"dimensions": "1440x3120",
+		"downloadable": true,
+		"copyright": "Personal use",
+		"collections": "Pattern,Lines,Light"
+	},
+	{
+		"name": "Kronikad1",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/kronikad_1.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/kronikad_1thumb.jpg",
+		"dimensions": "1440x3120",
+		"downloadable": true,
+		"copyright": "Personal use",
+		"collections": "Pattern,Lines,Dark"
+	},
+	{
+		"name": "Kronikad2",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/kronikad_2.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/kronikad_2thumb.jpg",
+		"dimensions": "1440x3120",
+		"downloadable": true,
+		"copyright": "Personal use",
+		"collections": "Pattern,Lines,Dark"
+	},
+	{
+		"name": "Kronikad3",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/kronikad_3.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/kronikal_3thumb.jpg",
+		"dimensions": "1440x3120",
+		"downloadable": true,
+		"copyright": "Personal use",
+		"collections": "Pattern,Lines,Dark"
+	},
+	{
+		"name": "Kronikad4",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/kronikad_4.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/kronikad_4thumb.jpg",
+		"dimensions": "1440x3120",
+		"downloadable": true,
+		"copyright": "Personal use",
+		"collections": "Pattern,Lines,Dark"
+	},
+	{
 		"name": "Traki1",
 		"author": "vht",
 		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/traki1.png",
