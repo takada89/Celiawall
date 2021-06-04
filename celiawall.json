@@ -1,5 +1,45 @@
 [
 	{
+		"name": "Marek1",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/marek1.png",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/marek1thumb.jpg",
+		"dimensions": "1440x3120",
+		"downloadable": true,
+		"copyright": "Personal use",
+		"collections": "Spacescape,Abstract"
+	},
+	{
+		"name": "Marek2",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/marek2.png",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/marek2thumb.jpg",
+		"dimensions": "1440x3120",
+		"downloadable": true,
+		"copyright": "Personal use",
+		"collections": "Spacescape,Abstract"
+	},
+	{
+		"name": "Marek3",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/marek3.png",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/marek3thumb.jpg",
+		"dimensions": "1440x3120",
+		"downloadable": true,
+		"copyright": "Personal use",
+		"collections": "Spacescape,Abstract"
+	},
+	{
+		"name": "Marek4",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/marek4.png",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/marek4thumb.jpg",
+		"dimensions": "1440x3120",
+		"downloadable": true,
+		"copyright": "Personal use",
+		"collections": "Spacescape,Abstract"
+	},
+	{
 		"name": "Ludie1",
 		"author": "vht",
 		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/ludie1.png",
