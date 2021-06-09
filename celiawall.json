@@ -1,5 +1,45 @@
 [
 	{
+		"name": "CureW",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/cure_light.png",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/cure_lightthumb.jpg",
+		"dimensions": "1440x3120",
+		"downloadable": true,
+		"copyright": "Personal use",
+		"collections": "RGBL,Lines,Light"
+	},
+	{
+		"name": "CureD",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/cure_dark.png",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/cure_darkthumb.jpg",
+		"dimensions": "1440x3120",
+		"downloadable": true,
+		"copyright": "Personal use",
+		"collections": "RGBL,Lines,Dark"
+	},
+	{
+		"name": "DigaveW",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/digave_light.png",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/digave_lightthumb.jpg",
+		"dimensions": "1440x3120",
+		"downloadable": true,
+		"copyright": "Personal use",
+		"collections": "RGBL,Light"
+	},
+	{
+		"name": "DigaveD",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/digave_dark.png",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/digave_darkthumb.jpg",
+		"dimensions": "1440x3120",
+		"downloadable": true,
+		"copyright": "Personal use",
+		"collections": "RGBL,Dark"
+	},
+	{
 		"name": "OP1",
 		"author": "vht",
 		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/OP1.png",
@@ -157,7 +197,7 @@
 		"dimensions": "1440x3120",
 		"downloadable": true,
 		"copyright": "Personal use",
-		"collections": "Pattern,Lines,Dark"
+		"collections": "Pattern,Lines,Light"
 	},
 	{
 		"name": "Kronikal4",
