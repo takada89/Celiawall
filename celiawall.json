@@ -1,13 +1,23 @@
 [
 	{
-		"name": "Crism",
+		"name": "DMN",
 		"author": "vht",
-		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/crism.png",
-		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/crismthumb.jpg",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/dmnd.png",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/dmndthumb.jpg",
 		"dimensions": "1440x3120",
 		"downloadable": true,
 		"copyright": "Personal use",
-		"collections": "Celia Lab"
+		"collections": "Celia Lab,Dark"
+	},
+	{
+		"name": "LMN",
+		"author": "vht",
+		"url": "https://raw.githubusercontent.com/takada89/Celiawall/main/Wallbase/dmnl.png",
+		"thumbnail": "https://raw.githubusercontent.com/takada89/Celiawall/main/Thumbnail/dmnlthumb.jpg",
+		"dimensions": "1440x3120",
+		"downloadable": true,
+		"copyright": "Personal use",
+		"collections": "Celia Lab,Light"
 	},
 	{
 		"name": "Crism1",
